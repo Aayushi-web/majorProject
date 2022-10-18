@@ -3,6 +3,9 @@
     padding: 0;
     margin: 0;
 }
+.space{
+    
+}
 .container{
     background-color: rgba(178, 146, 234, 0.72);
     height: 92vh;
@@ -16,15 +19,13 @@
 }
 ul{
 font-weight: bolder;
-
 }
 li{
     /* margin: 20px; */
     text-align: center;
     padding: 20px;
     font-family: 'Oswald', sans-serif;
-    list-style: none;
-   
+    list-style: none; 
 }
 @keyframes slide {
     from{
