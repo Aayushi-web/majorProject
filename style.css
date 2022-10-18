@@ -4,12 +4,11 @@
     margin: 0;
 }
 .container{
-    background-color: rgba(117, 154, 201, 0.16);
+    background-color: rgba(178, 146, 234, 0.72);
     height: 92vh;
     width: 20vw;
     display: flex;
     justify-content: center;
-   
    animation-name: slide;
    animation-duration: 5s;
    animation-iteration-count: infinite;
